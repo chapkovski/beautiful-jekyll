@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Introductory oTree workshop - presentations
-subtitle: Hamburg, 4-5 June 2018
+title: Advanced oTree workshop - presentations
+subtitle: Mainz, 4-5 June 2018
+bigimg: /img/mainz.jpg
 ---
 I will upload the presentations as workshop goes on...
 

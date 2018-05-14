@@ -2,6 +2,7 @@
 layout: page
 title: Introductory oTree workshop - code
 subtitle: Hamburg, May 29-30 2018
+bigimg: /img/hamburg.jpg
 ---
 
 I will upload the presentations as workshop goes on...

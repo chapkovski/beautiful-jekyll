@@ -2,6 +2,7 @@
 layout: page
 title: oTree workshop - presentations
 subtitle: St.Gallen, 22-25 May 2018
+bigimg: /img/stgallen.jpg
 ---
 I will upload the presentations as workshop goes on...
 
