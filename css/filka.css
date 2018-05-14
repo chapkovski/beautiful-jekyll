@@ -1,0 +1,17 @@
+.filka
+{
+      color: #333;
+      margin-bottom: 0;
+      margin-bottom: .5rem;
+font-family: inherit;
+font-weight: 500;
+line-height: 1.1;
+color: inherit;
+    font-size: 100%;
+    display: block;
+-webkit-margin-before: 1.33em;
+-webkit-margin-after: 1.33em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+/*font-weight: bold;*/
+}
