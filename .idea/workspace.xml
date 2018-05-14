@@ -80,11 +80,31 @@
         <entry file="file://$PROJECT_DIR$/teaching.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="300">
-                <caret line="20" column="11" lean-forward="false" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+              <first_editor relative-caret-position="420">
+                <caret line="28" column="57" lean-forward="false" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="38" column="17" lean-forward="false" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vagrantfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vagrantfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -115,27 +135,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EG6MWA.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/EG6MWA.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="install-steps.gif" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/img/install-steps.gif">
           <provider selected="true" editor-type-id="images">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/header.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="17" />
-              <folding />
-            </state>
           </provider>
         </entry>
       </file>
@@ -161,13 +164,13 @@
         <option value="$PROJECT_DIR$/teaching/stgallen_2018/stgallen_code.md" />
         <option value="$PROJECT_DIR$/teaching/hamburg_2018/hamburg_code.md" />
         <option value="$PROJECT_DIR$/teaching/mainz_2018/mainz_code.md" />
-        <option value="$PROJECT_DIR$/teaching.md" />
         <option value="$PROJECT_DIR$/teaching/hamburg_2018/hamburg_presentations.md" />
         <option value="$PROJECT_DIR$/teaching/hamburg_2018/hamburg_student_projects.md" />
         <option value="$PROJECT_DIR$/teaching/mainz_2018/mainz_student_projects.md" />
         <option value="$PROJECT_DIR$/teaching/stgallen_2018/stgallen_presentations.md" />
         <option value="$PROJECT_DIR$/teaching/stgallen_2018/stgallen_student_projects.md" />
         <option value="$PROJECT_DIR$/teaching/mainz_2018/mainz_presentations.md" />
+        <option value="$PROJECT_DIR$/teaching.md" />
       </list>
     </option>
   </component>
@@ -417,14 +420,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Vagrantfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/teaching/stgallen_2018/stgallen_code.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -455,14 +450,6 @@
             <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="39" column="12" lean-forward="false" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -585,11 +572,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="38" column="17" lean-forward="false" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vagrantfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/teaching.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="300">
-            <caret line="20" column="11" lean-forward="false" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <first_editor relative-caret-position="420">
+            <caret line="28" column="57" lean-forward="false" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
             <folding />
           </first_editor>
           <second_editor />
