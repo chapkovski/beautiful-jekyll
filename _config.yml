@@ -115,7 +115,7 @@ defaults:
     values:
       layout: "page"
       show-avatar: true
-      bigimg: "/img/a_for_site.jpg"
+      bigimg: "/img/lisbon.jpg"
   -
     scope:
       path: ""

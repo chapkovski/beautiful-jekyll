@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e766a210-d27a-4fd9-9dea-56d786eb8613" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/teaching/hamburg_2018/hamburg_code.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/teaching/mainz_2018/mainz_code.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/teaching/stgallen_2018/stgallen_code.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching.md" afterPath="$PROJECT_DIR$/teaching.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching/hamburg_2018/hamburg_presentations.md" afterPath="$PROJECT_DIR$/teaching/hamburg_2018/hamburg_presentations.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching/hamburg_2018/hamburg_student_projects.md" afterPath="$PROJECT_DIR$/teaching/hamburg_2018/hamburg_student_projects.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching/mainz_2018/mainz_presentations.md" afterPath="$PROJECT_DIR$/teaching/mainz_2018/mainz_presentations.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching/mainz_2018/mainz_student_projects.md" afterPath="$PROJECT_DIR$/teaching/mainz_2018/mainz_student_projects.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching/stgallen_2018/stgallen_presentations.md" afterPath="$PROJECT_DIR$/teaching/stgallen_2018/stgallen_presentations.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching/stgallen_2018/stgallen_student_projects.md" afterPath="$PROJECT_DIR$/teaching/stgallen_2018/stgallen_student_projects.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,7 +67,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="teaching.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="teaching.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/teaching.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -89,11 +80,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="38" column="17" lean-forward="false" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+            <state relative-caret-position="390">
+              <caret line="117" column="26" lean-forward="false" selection-start-line="117" selection-start-column="26" selection-end-line="117" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -157,7 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/stgallen_presentations.md" />
         <option value="$PROJECT_DIR$/teaching/teaching_404.md" />
         <option value="$PROJECT_DIR$/teaching/teaching_block.md" />
@@ -171,6 +161,7 @@
         <option value="$PROJECT_DIR$/teaching/stgallen_2018/stgallen_student_projects.md" />
         <option value="$PROJECT_DIR$/teaching/mainz_2018/mainz_presentations.md" />
         <option value="$PROJECT_DIR$/teaching.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -183,7 +174,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="2560" />
-    <option name="height" value="1363" />
+    <option name="height" value="1362" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -572,14 +563,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="38" column="17" lean-forward="false" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Vagrantfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -596,6 +579,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="117" column="26" lean-forward="false" selection-start-line="117" selection-start-column="26" selection-end-line="117" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
