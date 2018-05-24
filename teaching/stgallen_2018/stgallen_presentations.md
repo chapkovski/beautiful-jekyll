@@ -16,7 +16,7 @@ bigimg: /img/stgallen.jpg
 
 #### _May 24, 2018:_
 
-* Nothing's here yet
+* [Dynamic forms and form validation](/teaching/stgallen_2018/st_gallen_may_24_v1.pptx)
 
 #### _May 25, 2018:_
 
