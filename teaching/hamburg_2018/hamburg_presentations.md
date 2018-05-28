@@ -9,7 +9,11 @@ I will upload the presentations as workshop goes on...
 
 #### _May 29, 2018:_
 
-* Nothing's here yet
+
+
+* [Intro and Guess game](/teaching/hamburg_2018/hamburg_day1.pptx)
+* [Intro to Python](/teaching/hamburg_2018/hamburg_day_1_python_intro.pptx)
+* [Ultimatum game](/teaching/hamburg_2018/hamburg_day1_ultimatum.pptx)
 
 #### _May 30, 2018:_
 
