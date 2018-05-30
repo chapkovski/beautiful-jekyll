@@ -18,5 +18,6 @@ I will upload the presentations as workshop goes on...
 #### _May 30, 2018:_
 
 * [Public good game](/teaching/hamburg_2018/hamburg_day2_pgg.pptx)
+* [Creating different treatments](/teaching/hamburg_2018/hamburg_day2_pgg_treatments.pptx)
 
  
