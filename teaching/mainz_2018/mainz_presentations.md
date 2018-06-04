@@ -16,4 +16,15 @@ I will upload the presentations as workshop goes on...
 
 * [Real Effort Task using Django Channels](/teaching/mainz_2018/mainz_june_5_channels.pptx)
 
+----
+### Code:
+* [Code to clean - problem](https://github.com/chapkovski/mainz_task)
+* [Code to clean - solution](https://github.com/chapkovski/mainz_task/tree/solution)
+* [Public Good Game with punishment - simple](https://github.com/chapkovski/fehr-and-gaechter/tree/ordinary_fg)
+* [Public Good Game with punishment - using custom models](https://github.com/chapkovski/fehr-and-gaechter)
+* [Public Good Game with punishment with Real Effort Task](https://github.com/chapkovski/fehr-and-gaechter/tree/adding_ret)
+* [Stroop Test - minimum](https://github.com/chapkovski/stroop_test)
+* [Stroop Test - going deeper](https://github.com/chapkovski/stroop_test/tree/deeper)
+
+
  
