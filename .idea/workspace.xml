@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e766a210-d27a-4fd9-9dea-56d786eb8613" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/teaching/mainz_2018/mainz_student_projects.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching.md" afterPath="$PROJECT_DIR$/teaching.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching/mainz_2018/mainz_presentations.md" afterPath="$PROJECT_DIR$/teaching/mainz_2018/mainz_presentations.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -34,8 +32,8 @@
         <entry file="file://$PROJECT_DIR$/teaching/mainz_2018/mainz_presentations.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="207">
-                <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <first_editor relative-caret-position="230">
+                <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -673,8 +671,8 @@
     <entry file="file://$PROJECT_DIR$/teaching/mainz_2018/mainz_presentations.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="207">
-            <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <first_editor relative-caret-position="230">
+            <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
