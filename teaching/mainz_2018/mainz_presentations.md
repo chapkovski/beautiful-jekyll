@@ -15,7 +15,9 @@ bigimg: /img/mainz.jpg
 * [Code to clean - solution](https://github.com/chapkovski/mainz_task/tree/solution)
 * [Public Good Game with punishment - simple](https://github.com/chapkovski/fehr-and-gaechter/tree/ordinary_fg)
 * [Public Good Game with punishment - using custom models](https://github.com/chapkovski/fehr-and-gaechter)
+
 ----
+
 ## _June 05, 2018:_
 
 * [Real Effort Task using Django Channels](/teaching/mainz_2018/mainz_june_5_channels.pptx)
