@@ -26,7 +26,7 @@ bigimg: /img/mainz.jpg
 * [Real effort task - minimum](https://github.com/chapkovski/minimum_ret)
 * [Real effort task - advanced](https://github.com/chapkovski/minimum_ret/tree/beyond)
 * [Real effort task - adding history](https://github.com/chapkovski/minimum_ret/tree/history)
-* [Stroop Test - minimum](https://github.com/chapkovski/stroop_test)
+* [Stroop Test - minimum](https://github.com/chapkovski/stroop_test/tree/simple_version)
 * [Stroop Test - going deeper](https://github.com/chapkovski/stroop_test/tree/deeper)
 
 ----
