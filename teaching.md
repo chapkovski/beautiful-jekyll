@@ -28,3 +28,10 @@ subtitle: Presentations and code for oTree workshops
 * [Presentations and code](/teaching/mainz_2018/mainz_presentations)
 
 
+
+## Brussels Intro Workshop:
+
+#### _(July 11-12, 2018)_
+
+* [Presentations and code](/teaching/brussels_2018/brussels_presentations)
+
