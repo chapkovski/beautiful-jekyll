@@ -4,10 +4,14 @@ title: About
 subtitle: Everything you'd like to know but were afraid of my Russian accent
 ---
 
-I am finishing up my Ph.dD thesis at the [European University Institute](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Researchers/Researchers2012.aspx).
+I defended myPh.dD thesis at the [European University Institute](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Researchers/Researchers2012.aspx).
+under the supervision of Prof. Diego Gambetta.
 
-Since October 2016 I will also work in the [University of Zurich](http://www.suz.uzh.ch/) under the supervision of
-Professor [Heiko Rauhut](http://www.suz.uzh.ch/de/institut/professuren/rauhut.html).
+Since September 2018 I work as a post-doctoral researcher in
+the International Laboratory for Behavioral and Experimental Economics,
+Higher School of Economics, Moscow.
+
+
 
 
 ### What I am currently working on
