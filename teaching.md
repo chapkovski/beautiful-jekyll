@@ -35,3 +35,12 @@ subtitle: Presentations and code for oTree workshops
 
 * [Presentations and code](/teaching/brussels_2018/brussels_presentations)
 
+
+
+## Zurich  Workshop:
+
+#### _(November 6, 2018)_
+
+* [Presentation](/teaching/hamburg_2018/hamburg_presentations)
+* [Code](https://github.com/chapkovski/zurich-workshop)
+
