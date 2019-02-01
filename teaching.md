@@ -44,3 +44,11 @@ subtitle: Presentations and code for oTree workshops
 * [Presentation](/teaching/zurich_2018/zurich_presentation.md)
 * [Code](https://github.com/chapkovski/zurich-workshop)
 
+
+
+
+## Moscow  Workshop:
+
+#### _(January 30, 2019)_
+
+* [Code](https://github.com/chapkovski/hse-otree-workshop)
