@@ -52,3 +52,9 @@ subtitle: Presentations and code for oTree workshops
 #### _(January 30, 2019)_
 
 * [Code](https://github.com/chapkovski/hse-otree-workshop)
+
+## Vladivostok Workshop on Experimental methods:
+
+#### _(November 16-26, 2020)_
+
+* [Lectures](/teaching/vladivostok_2020/vl_lectures)
